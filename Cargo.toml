@@ -43,7 +43,7 @@ openssl = { version = "0.10.32", optional = true }
 path-slash = "0.1.4"
 percent-encoding = "2.1.0"
 predicates = "1.0.5"
-prettytable-rs = "0.8.0"
+prettytable-rs = "0.10.0"
 rand = "0.7.3"
 regex = "1.4.1"
 reqwest = { version = "0.10.9", features = ["blocking", "json"] }
